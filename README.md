@@ -1,8 +1,8 @@
 ![title](https://user-images.githubusercontent.com/91826635/180649592-3e51bda8-2e20-46c1-817b-acff6a4e633b.png)
 
-<h2 style="margin-left: 450px;">I'm Bogdan Mykhailov</h2>
+<h2 align='center' dir='auto'>I'm Bogdan Mykhailov</h2>
 
-#### in the past - a circus artist 🎪 and in the future - a full stack samurai 👨🏻‍💻
+<h4 align='center' dir='auto'>in the past - a circus artist 🎪 and in the future - a full stack samurai 👨🏻‍💻</h4>
 
 ---
 
