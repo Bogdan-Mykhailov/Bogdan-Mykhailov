@@ -1,4 +1,4 @@
-![Добрий_день,_everybody!](https://user-images.githubusercontent.com/91826635/180641292-2e6d65eb-d8ba-45e5-9964-9f0f6ff853db.png)
+![Добрий_день,_everybody! (1)](https://user-images.githubusercontent.com/91826635/180641348-39ec2605-1d3c-4019-9b92-214b0a249cc0.png)
 
 
 ## Hi there 👋
