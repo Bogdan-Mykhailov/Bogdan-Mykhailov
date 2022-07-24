@@ -2,7 +2,7 @@
 
 <h2 align='center' dir='auto'>I'm Bogdan Mykhailov</h2>
 
-<h4 align='center' dir='auto'>I'm an newbie developer focused on Front-End development using React, Redux, TS.</h4>
+<h4 align='center' dir='auto'>Newbie developer focused on Front-End development using React, Redux, TS.</h4>
 
 ---
 
