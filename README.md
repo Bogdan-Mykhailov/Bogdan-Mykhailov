@@ -30,6 +30,8 @@
 
 <img src="https://img.shields.io/badge/Library_:-36a9ae?style=for-the-badge&logo=CV&logoColor=white" alt="Library"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"> <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"> <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="Material"> <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React_Router">
 
+<img src="https://img.shields.io/badge/IDE_:-36a9ae?style=for-the-badge&logo=CV&logoColor=white" alt="Library"> <img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white" alt="WebStorm"> <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VSCode">
+
 
 
 
