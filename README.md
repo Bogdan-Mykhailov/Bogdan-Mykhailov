@@ -1,10 +1,11 @@
-![](../../../Desktop/title.png)
+![title](https://user-images.githubusercontent.com/91826635/180649592-3e51bda8-2e20-46c1-817b-acff6a4e633b.png)
+
 
 <div style="display:flex; align-items: center; justify-content: center;">
 <span style="font-size: 20px; margin-right: 10px; font-weight: 100">Stand with Ukraine!</span>
-<img style="width: 50px;" src="../../../Desktop/ua.png" alt="ua">
+<img style="width: 50px;" src="https://user-images.githubusercontent.com/91826635/180649625-38e5e5a3-cb71-4d9d-a0d9-42b9a83febc6.png" alt="ua">
 </div>
-  
+
 
 <h2 style="font-family: Avenir Next; color: azure; "> I'm Bogdan Mykhailov </h2>
 
