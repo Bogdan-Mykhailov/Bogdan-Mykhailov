@@ -5,16 +5,12 @@
 #### in the past - a circus artist 🎪 and in the future - a full stack samurai 👨🏻‍💻
 ---
  ### 📫 My Contacts
-![linkedin](https://user-images.githubusercontent.com/91826635/180651288-9142b2b6-80e1-4bc4-86e2-227b47867b4c.png)
+
 ___
 
-![](https://user-images.githubusercontent.com/91826635/180651288-9142b2b6-80e1-4bc4-86e2-227b47867b4c.png)(https://www.linkedin.com/in/bogdan-mykhailov/)
 
 
-
-
-
-
+https://github-readme-stats.vercel.app/api?username={Bogdan}
 
 
 
