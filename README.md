@@ -1,7 +1,10 @@
 ![Добрий_день,_everybody! (3)](https://user-images.githubusercontent.com/91826635/180641446-3787d8df-f7fa-49b0-b1e4-dc3708104c64.png)
 
 
-## I'm Bogdan Mykhailov
+### I'm Bogdan Mykhailov
+
+*in the past - a circus artist, and in the future - a full stack samurai*
+
 
 _________________________
 
