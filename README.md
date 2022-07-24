@@ -32,14 +32,11 @@
 
 <img src="https://img.shields.io/badge/IDE_:-36a9ae?style=for-the-badge&logo=CV&logoColor=white" alt="Library"> <img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white" alt="WebStorm"> <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VSCode">
 
+___
 
-
-
-
-
-
-
-_______
+<div>
 
 ### Glory to Ukaraine
-![ua](https://user-images.githubusercontent.com/91826635/180652000-092f5f08-aa0e-4fb4-8540-0fdc168fb686.png)
+![ua](https://user-images.githubusercontent.com/91826635/180657972-20a1444b-d558-4823-8b13-99419fdef67b.png)
+
+</div>
