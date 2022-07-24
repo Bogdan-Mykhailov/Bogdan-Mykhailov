@@ -1,6 +1,6 @@
 ![title](https://user-images.githubusercontent.com/91826635/180649592-3e51bda8-2e20-46c1-817b-acff6a4e633b.png)
 
-<h2 align='center' dir='auto'>I'm Bogdan Mykhailov</h2>
+<h1 align='center' dir='auto'>I'm Bogdan Mykhailov</h1>
 
 <h4 align='center' dir='auto'>in the past - a circus artist 🎪 and in the future - a full stack samurai 👨🏻‍💻</h4>
 
@@ -34,9 +34,10 @@
 
 ___
 
-<div>
+<div align='center'>
 
-### Glory to Ukaraine
+<h3>Glory to Ukaraine!</h3>
+ 
 ![ua](https://user-images.githubusercontent.com/91826635/180657972-20a1444b-d558-4823-8b13-99419fdef67b.png)
 
 </div>
