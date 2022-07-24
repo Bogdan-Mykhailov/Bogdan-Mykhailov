@@ -11,10 +11,9 @@
 <h4>in the past - a circus artist 🎪 and in the future - a full stack samurai 👨🏻‍💻</h4>
 ___
 
-<div style="display:flex;align-items: center; justify-content: center; flex-direction: column;">
-<h3 style="font-family: 'Avenir Next'; color: azure; "> 📫 My Contacts</h3>
-<img style="width: 20px;" src="https://user-images.githubusercontent.com/91826635/180650794-fc1fe17e-ee46-48c6-b1db-823800521ac7.png" alt="ua">
-</div>  
+
+ ### 📫 My Contacts
+![linkedin](https://user-images.githubusercontent.com/91826635/180651288-9142b2b6-80e1-4bc4-86e2-227b47867b4c.png)
 
 <!--
 **Bogdan-Mykhailov/Bogdan-Mykhailov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
