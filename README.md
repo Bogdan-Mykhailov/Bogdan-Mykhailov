@@ -1,8 +1,8 @@
 ![title](https://user-images.githubusercontent.com/91826635/180649592-3e51bda8-2e20-46c1-817b-acff6a4e633b.png)
 
-<h1 align='center' dir='auto'>I'm Bogdan Mykhailov</h1>
+<h2 align='center' dir='auto'>I'm Bogdan Mykhailov</h2>
 
-<h4 align='center' dir='auto'>in the past - a circus artist 🎪 and in the future - a full stack samurai 👨🏻‍💻</h4>
+<h4 align='center' dir='auto'>I'm an newbie developer focused on Front-End development using React, Redux, TS.</h4>
 
 ---
 
