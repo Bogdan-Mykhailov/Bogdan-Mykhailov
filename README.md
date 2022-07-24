@@ -3,7 +3,15 @@
 ## I'm Bogdan Mykhailov
 
 #### in the past - a circus artist 🎪 and in the future - a full stack samurai 👨🏻‍💻
+
 ---
+
+ #### My CV
+ 
+<a href='https://drive.google.com/file/d/1ttmrwK_yKqbI9U9dfwPm-LbIJq3B0AK0/view?usp=sharing' rel='nofollow'>
+<img src="https://img.shields.io/badge/My_CV-1DBF73?style=for-the-badge&logo=CV&logoColor=white" alt="cv">
+</a>
+
  ### My Contacts
  
 <a href='https://www.linkedin.com/in/bogdan-mykhailov/' rel='nofollow'>
@@ -16,11 +24,11 @@
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram">
 </a>
  
- #### My CV
- 
-<a href='https://drive.google.com/file/d/1ttmrwK_yKqbI9U9dfwPm-LbIJq3B0AK0/view?usp=sharing' rel='nofollow'>
-<img src="https://img.shields.io/badge/My_CV-1DBF73?style=for-the-badge&logo=CV&logoColor=white" alt="cv">
-</a>
+### My skils:
+
+<img src="https://img.shields.io/badge/Languages_:-36a9ae?style=for-the-badge&logo=CV&logoColor=white" alt="Languages"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+
+
 
 
 
