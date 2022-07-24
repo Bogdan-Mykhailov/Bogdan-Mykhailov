@@ -3,7 +3,7 @@
 
 ### I'm Bogdan Mykhailov
 
-*in the past - a circus artist, and in the future - a full stack samurai*
+*in the past - a circus artist* 🎪, *and in the future - a full stack samurai* 👨🏻‍💻
 
 
 _________________________
