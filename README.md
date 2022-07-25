@@ -1,4 +1,4 @@
-![title](https://user-images.githubusercontent.com/91826635/180649592-3e51bda8-2e20-46c1-817b-acff6a4e633b.png)
+![ua](https://user-images.githubusercontent.com/91826635/180766944-99437235-673e-461a-969a-16833c2b81d3.png)
 
 <h2 align='center' dir='auto'>I'm Bogdan Mykhailov</h2>
 
