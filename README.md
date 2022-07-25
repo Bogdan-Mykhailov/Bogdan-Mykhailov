@@ -6,7 +6,7 @@
 
 ---
 
- #### My CV
+ ### My CV
  
 <a href='https://drive.google.com/file/d/1ttmrwK_yKqbI9U9dfwPm-LbIJq3B0AK0/view?usp=sharing' rel='nofollow'>
 <img src="https://img.shields.io/badge/My_CV-1DBF73?style=for-the-badge&logo=CV&logoColor=white" alt="cv">
