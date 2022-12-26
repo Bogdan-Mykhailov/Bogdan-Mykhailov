@@ -42,8 +42,6 @@ ___
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bogdan-Mykhailov&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 ___
 
-![Metrics](https://metrics.lecoq.io/Bogdan-Mykhailov)
-
 <div align='center'>
 
 <h3>Glory to Ukaraine!</h3>
