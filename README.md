@@ -1,6 +1,6 @@
 ![ua](https://user-images.githubusercontent.com/91826635/180766944-99437235-673e-461a-969a-16833c2b81d3.png)
 
-<h2 align='center' dir='auto'>I'm Bogdan Mykhailov</h2>
+<h2 align='center' dir='auto' style={{fontFamily="Josefin sans, sans-sefif"}}>I'm Bogdan Mykhailov</h2>
 
 <h4 align='center' dir='auto'>Developer focused on Front-End development using React, Redux, TS.</h4>
 
