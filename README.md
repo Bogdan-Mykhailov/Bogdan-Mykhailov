@@ -38,22 +38,9 @@
 
 ___
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Bogdan-Mykhailov&theme=onedark_duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bogdan-Mykhailov&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Bogdan-Mykhailov&theme=onedark_duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bogdan-Mykhailov&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 ___
-
-name: Compact display
-uses: lowlighter/metrics@latest
-with:
-  filename: metrics.plugin.achievements.compact.svg
-  token: ${{ secrets.METRICS_TOKEN }}
-  base: ""
-  plugin_achievements: yes
-  plugin_achievements_only: >-
-    polyglot, stargazer, sponsor, deployer, member, maintainer, developer,
-    scripter, packager, explorer, infographile, manager
-  plugin_achievements_display: compact
-  plugin_achievements_threshold: X
-
 
 <div align='center'>
 
