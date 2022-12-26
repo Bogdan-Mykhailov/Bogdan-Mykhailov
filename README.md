@@ -6,6 +6,10 @@
 
 ---
 
+<div alighn='center'>
+<img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width="100"/>
+</div>
+
  ### My CV
  
 <a href='https://drive.google.com/file/d/1VeghR7op3oiFhC8Z0AD1vqgnVd2v51Mt/view?usp=sharing' rel='nofollow'>
