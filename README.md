@@ -4,7 +4,7 @@
 
 
 <!-- <h4 align='center' dir='auto'>I’m a goal-oriented developer focused on Front-End development using React, Redux, TS.</h4> -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=24&pause=1&color=383838&center=true&vCenter=true&multiline=true&repeat=false&width=1080&height=200&lines=I%E2%80%99m+a+goal-oriented+developer+focused+on;Front-End+development+using+React%2C+Redux%2C+TS.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=24&pause=1&color=FFB387&center=true&vCenter=true&multiline=true&repeat=false&width=1080&height=80&lines=I%E2%80%99m+a+goal-oriented+developer+focused+on;Front-End+development+using+React%2C+Redux%2C+TS.)](https://git.io/typing-svg)
 ---
 
 <div alighn='center'>
