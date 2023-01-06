@@ -10,14 +10,14 @@
 <img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width="200"/>
 </div>
 
- ### My CV & Portfolio
+ ### CV & Portfolio
  
 <a href='https://drive.google.com/file/d/1VeghR7op3oiFhC8Z0AD1vqgnVd2v51Mt/view?usp=sharing' rel='nofollow'>
-<img src="https://img.shields.io/badge/My_CV-1DBF73?style=for-the-badge&logo=CV&logoColor=white" alt="cv">
+<img src="https://img.shields.io/badge/CV-1DBF73?style=for-the-badge&logo=CV&logoColor=white" alt="cv">
 </a>
 
 <a href='https://bogdan-mykhailov.github.io/myPortfolio/' rel='nofollow'>
-<img src="https://img.shields.io/badge/My_Portfolio-FFB387?style=for-the-badge&logo=Portfolio&logoColor=black" alt="portfolio">
+<img src="https://img.shields.io/badge/Portfolio-FFB387?style=for-the-badge&logo=Portfolio&logoColor=black" alt="portfolio">
 </a>
 
  ### My Contacts
