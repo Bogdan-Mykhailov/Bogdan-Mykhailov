@@ -1,6 +1,6 @@
 ![ua](https://user-images.githubusercontent.com/91826635/180766944-99437235-673e-461a-969a-16833c2b81d3.png)
 
-<h2 align='center' style='color='#FFB387'' dir='auto'>Hi, there my name is Bogdan Mykhailov</h2>
+<h2 align='center' dir='auto'>Hi, there my name is Bogdan Mykhailov</h2>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=24&pause=1&color=FFB387&center=true&vCenter=true&multiline=true&repeat=false&width=1080&height=80&lines=I%E2%80%99m+a+goal-oriented+developer+focused+on;Front-End+development+using+React%2C+Redux%2C+TS.)](https://git.io/typing-svg)
 ---
