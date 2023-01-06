@@ -42,7 +42,7 @@ ___
 ___
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bogdan-Mykhailov&layout=compact&theme=onedark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bogdan_mykhailov)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bogdan_mykhailov&layout=compact&theme=onedark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 ___
 
 <div align='center'>
