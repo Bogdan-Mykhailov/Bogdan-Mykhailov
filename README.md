@@ -1,6 +1,7 @@
 ![ua](https://user-images.githubusercontent.com/91826635/180766944-99437235-673e-461a-969a-16833c2b81d3.png)
 
-<h2 align='center' dir='auto'>Hi, there my name is Bogdan Mykhailov</h2>
+<!-- <h2 align='center' dir='auto'>Hi, there my name is Bogdan Mykhailov</h2> -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+there+my+name+is+Bogdan+Mykhailov)](https://git.io/typing-svg)
 
 <h4 align='center' dir='auto'>I’m a goal-oriented developer focused on Front-End development using React, Redux, TS.</h4>
 
