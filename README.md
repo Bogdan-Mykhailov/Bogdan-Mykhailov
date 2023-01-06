@@ -1,7 +1,7 @@
 ![ua](https://user-images.githubusercontent.com/91826635/180766944-99437235-673e-461a-969a-16833c2b81d3.png)
 
 <!-- <h2 align='center' dir='auto'>Hi, there my name is Bogdan Mykhailov</h2> -->
-<a align='center' href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=21&pause=1000&center=true&vCenter=true&width=800&lines=Hi%2C+there+my+name+is+Bogdan+Mykhailov" alt="Typing SVG" /></a>
+<a align='center' dir='auto' href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=21&pause=1000&center=true&vCenter=true&width=800&lines=Hi%2C+there+my+name+is+Bogdan+Mykhailov" alt="Typing SVG" /></a>
 
 <h4 align='center' dir='auto'>I’m a goal-oriented developer focused on Front-End development using React, Redux, TS.</h4>
 
