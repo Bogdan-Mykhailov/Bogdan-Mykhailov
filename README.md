@@ -40,9 +40,6 @@ ___
 [![GitHub Streak](https://streak-stats.demolab.com?user=Bogdan-Mykhailov&theme=onedark_duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 ___
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bogdan-Mykhailov&layout=compact&theme=onedark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-___
-
 <div align='center'>
 
 <h3>Glory to Ukaraine!</h3>
