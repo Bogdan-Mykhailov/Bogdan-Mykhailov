@@ -39,7 +39,7 @@ ___
 
 ![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Bogdan-Mykhailov&theme=onedark&hide_border=true&bg_color=282c34&color=e3be79&line=e3be79&point=df6d74&hide_border=true)
 
-<img align="left" alt="Top Langs" width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bogdan-Mykhailov&layout=compact&hide_border=true&theme=onedark"> [![GitHub Streak](https://streak-stats.demolab.com?user=Bogdan-Mykhailov&theme=onedark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+<img align="left" alt="Top Langs" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bogdan-Mykhailov&layout=compact&hide_border=true&theme=onedark"> [![GitHub Streak](https://streak-stats.demolab.com?user=Bogdan-Mykhailov&theme=onedark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 ___
 
 <div align='center'>
