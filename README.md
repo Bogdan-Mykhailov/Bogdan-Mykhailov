@@ -7,7 +7,7 @@
 
  ### My CV & Portfolio
  
-<a href='https://drive.google.com/file/d/1Aaefu4tcohOIOxqQ_9VWqVzDI8lpF2Ve/view?usp=sharing' rel='nofollow'>
+<a href='https://drive.google.com/file/d/17xNlfRoCQEHVqHpKzNM9rH855lORLcS3/view?usp=sharing' rel='nofollow'>
 <img src="https://img.shields.io/badge/CV-1d4350?style=for-the-badge&logo=CV&logoColor=FFB387" alt="cv">
 </a>
 
